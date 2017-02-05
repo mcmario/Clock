@@ -1,0 +1,9 @@
+#clock{
+    width: 600px;
+    height: 200px;
+    background: darkgreen;
+    color: peru;
+    font-size: 48pt;
+    text-align: center;
+    padding: 5px;
+}
